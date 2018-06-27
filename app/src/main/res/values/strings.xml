@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JavaAndroid</string>
+    <string name="sample_device_admin_description">用户管理员的描述信息</string>
+    <string name="sample_device_admin">设置管理权限</string>
+</resources>
